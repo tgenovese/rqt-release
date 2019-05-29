@@ -1,3 +1,31 @@
+## rqt (dashing) - 1.0.4-1
+
+The packages in the `rqt` repository were released into the `dashing` distro by running `/usr/bin/bloom-release -r dashing -t dashing rqt` on `Wed, 29 May 2019 23:33:21 -0000`
+
+These packages were released:
+- `rqt`
+- `rqt_gui`
+- `rqt_gui_cpp`
+- `rqt_gui_py`
+- `rqt_py_common`
+
+Version of package(s) in repository `rqt`:
+
+- upstream repository: https://github.com/ros-visualization/rqt.git
+- release repository: https://github.com/ros2-gbp/rqt-release.git
+- rosdistro version: `1.0.3-1`
+- old version: `1.0.3-1`
+- new version: `1.0.4-1`
+
+Versions of tools used:
+
+- bloom version: `0.8.0`
+- catkin_pkg version: `0.4.12`
+- rosdep version: `0.15.2`
+- rosdistro version: `0.7.4`
+- vcstools version: `0.1.40`
+
+
 ## rqt (dashing) - 1.0.3-1
 
 The packages in the `rqt` repository were released into the `dashing` distro by running `/usr/bin/bloom-release -r dashing -t dashing rqt` on `Thu, 09 May 2019 22:28:53 -0000`
