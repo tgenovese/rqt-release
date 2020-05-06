@@ -1,3 +1,31 @@
+## rqt (foxy) - 1.0.6-1
+
+The packages in the `rqt` repository were released into the `foxy` distro by running `/usr/bin/bloom-release -r foxy rqt` on `Wed, 06 May 2020 01:50:39 -0000`
+
+These packages were released:
+- `rqt`
+- `rqt_gui`
+- `rqt_gui_cpp`
+- `rqt_gui_py`
+- `rqt_py_common`
+
+Version of package(s) in repository `rqt`:
+
+- upstream repository: https://github.com/ros-visualization/rqt.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `1.0.6-1`
+
+Versions of tools used:
+
+- bloom version: `0.9.7`
+- catkin_pkg version: `0.4.18`
+- rosdep version: `0.19.0`
+- rosdistro version: `0.8.1`
+- vcstools version: `0.1.42`
+
+
 ## rqt (eloquent) - 1.0.5-1
 
 The packages in the `rqt` repository were released into the `eloquent` distro by running `/usr/bin/bloom-release -r eloquent -t eloquent rqt` on `Mon, 30 Sep 2019 23:31:06 -0000`
