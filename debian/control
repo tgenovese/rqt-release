@@ -1,0 +1,12 @@
+Source: ros-dashing-rqt-gui-py
+Section: misc
+Priority: optional
+Maintainer: Michael Jeronimo <michael.jeronimo@openrobotics.org>
+Build-Depends: debhelper (>= 9.0.0), ros-dashing-ament-lint-auto, ros-dashing-ament-lint-common, ros-dashing-qt-gui (>= 0.3.0), ros-dashing-rqt-gui (>= 0.3.0), ros-dashing-ros-workspace, python3-all, python3-setuptools
+Homepage: http://ros.org/wiki/rqt_gui_py
+Standards-Version: 3.9.2
+
+Package: ros-dashing-rqt-gui-py
+Architecture: any
+Depends: ${python3:Depends}, ${misc:Depends}, ros-dashing-qt-gui (>= 0.3.0), ros-dashing-rqt-gui (>= 0.3.0), ros-dashing-ros-workspace
+Description: rqt_gui_py enables GUI plugins to use the Python client library for ROS.
