@@ -1,3 +1,31 @@
+## rqt (foxy) - 1.0.7-1
+
+The packages in the `rqt` repository were released into the `foxy` distro by running `/usr/bin/bloom-release rqt -r foxy` on `Fri, 05 Feb 2021 23:56:02 -0000`
+
+These packages were released:
+- `rqt`
+- `rqt_gui`
+- `rqt_gui_cpp`
+- `rqt_gui_py`
+- `rqt_py_common`
+
+Version of package(s) in repository `rqt`:
+
+- upstream repository: https://github.com/ros-visualization/rqt.git
+- release repository: https://github.com/ros2-gbp/rqt-release.git
+- rosdistro version: `1.0.6-1`
+- old version: `1.0.6-1`
+- new version: `1.0.7-1`
+
+Versions of tools used:
+
+- bloom version: `0.10.1`
+- catkin_pkg version: `0.4.22`
+- rosdep version: `0.19.0`
+- rosdistro version: `0.8.3`
+- vcstools version: `0.1.42`
+
+
 ## rqt (dashing) - 1.0.7-1
 
 The packages in the `rqt` repository were released into the `dashing` distro by running `/usr/bin/bloom-release rqt -r dashing` on `Fri, 05 Feb 2021 23:52:25 -0000`
