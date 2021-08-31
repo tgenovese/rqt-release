@@ -1,0 +1,12 @@
+Source: ros-galactic-rqt-gui-cpp
+Section: misc
+Priority: optional
+Maintainer: Michael Jeronimo <michael.jeronimo@openrobotics.org>
+Build-Depends: debhelper (>= 9.0.0), qtbase5-dev, ros-galactic-ament-cmake, ros-galactic-pluginlib, ros-galactic-qt-gui (>= 0.3.0), ros-galactic-qt-gui-cpp (>= 0.3.0), ros-galactic-rclcpp, ros-galactic-ros-workspace
+Homepage: http://ros.org/wiki/rqt_gui_cpp
+Standards-Version: 3.9.2
+
+Package: ros-galactic-rqt-gui-cpp
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-galactic-pluginlib, ros-galactic-qt-gui (>= 0.3.0), ros-galactic-qt-gui-cpp (>= 0.3.0), ros-galactic-rclcpp, ros-galactic-ros-workspace
+Description: rqt_gui_cpp enables GUI plugins to use the C++ client library for ROS.
