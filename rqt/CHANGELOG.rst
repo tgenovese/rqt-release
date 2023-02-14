@@ -2,8 +2,15 @@
 Changelog for package rqt
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 
-1.1.4 (2022-05-10)
+1.3.0 (2023-02-14)
 ------------------
+* [rolling] Update maintainers - 2022-11-07 (`#283 <https://github.com/ros-visualization/rqt/issues/283>`_)
+* Contributors: Audrow Nash, Dharini Dutia, quarkytale
+
+1.2.0 (2022-05-10)
+------------------
+* Fix up the package description. (`#250 <https://github.com/ros-visualization/rqt/issues/250>`_)
+* Contributors: Chris Lalancette
 
 1.1.3 (2022-04-05)
 ------------------
