@@ -2,6 +2,9 @@
 Changelog for package rqt_gui_cpp
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+1.3.1 (2023-02-24)
+------------------
+
 1.3.0 (2023-02-14)
 ------------------
 * Update rqt to C++17. (`#285 <https://github.com/ros-visualization/rqt/issues/285>`_)
