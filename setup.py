@@ -3,7 +3,7 @@ from setuptools import setup
 package_name = 'rqt'
 setup(
     name=package_name,
-    version='1.3.0',
+    version='1.3.1',
     data_files=[
         ('share/ament_index/resource_index/packages',
             ['resource/' + package_name]),
@@ -28,5 +28,6 @@ setup(
         'rqt_robot_plugins - Tools for interacting with robots during their runtime. ' +
         'rqt_gui - that enables multiple `rqt` widgets to be docked in a single window.'
     ),
+    packages=[],
     license='BSD',
 )
