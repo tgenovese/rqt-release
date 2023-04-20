@@ -1,0 +1,12 @@
+Source: ros-iron-rqt
+Section: misc
+Priority: optional
+Maintainer: Dharini Dutia <dharini@openrobotics.org>
+Build-Depends: debhelper (>= 9.0.0), ros-iron-ros-workspace, python3-all, python3-setuptools, dh-python
+Homepage: http://ros.org/wiki/rqt
+Standards-Version: 3.9.2
+
+Package: ros-iron-rqt
+Architecture: any
+Depends: ${python3:Depends}, ${misc:Depends}, ros-iron-rqt-gui (>= 0.3.0), ros-iron-rqt-gui-cpp (>= 0.3.0), ros-iron-rqt-gui-py (>= 0.3.0), ros-iron-rqt-py-common, ros-iron-ros-workspace
+Description: rqt is a Qt-based framework for GUI development for ROS.
