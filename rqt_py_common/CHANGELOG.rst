@@ -2,13 +2,28 @@
 Changelog for package rqt_py_common
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-1.1.6 (2024-01-24)
+1.3.4 (2024-02-15)
+------------------
+* Allow to autocomplete namespaced topics (`#301 <https://github.com/ros-visualization/rqt/issues/301>`_)
+* Contributors: Alejandro Hernández Cordero
+
+1.3.3 (2023-05-19)
 ------------------
 
-1.1.5 (2023-04-25)
+1.3.2 (2023-04-11)
+------------------
+* Changes the use of __slots_\_ for the field and field type getter (`#289 <https://github.com/ros-visualization/rqt/issues/289>`_)
+* Contributors: Eloy Briceno
+
+1.3.1 (2023-02-24)
 ------------------
 
-1.1.4 (2022-05-10)
+1.3.0 (2023-02-14)
+------------------
+* [rolling] Update maintainers - 2022-11-07 (`#283 <https://github.com/ros-visualization/rqt/issues/283>`_)
+* Contributors: Audrow Nash, Dharini Dutia, quarkytale
+
+1.2.0 (2022-05-10)
 ------------------
 
 1.1.3 (2022-04-05)
