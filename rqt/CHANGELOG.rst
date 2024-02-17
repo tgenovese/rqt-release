@@ -2,29 +2,19 @@
 Changelog for package rqt
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 
-1.3.4 (2024-02-15)
+1.1.7 (2024-02-16)
 ------------------
 
-1.3.3 (2023-05-19)
+1.1.6 (2024-01-24)
 ------------------
 
-1.3.2 (2023-04-11)
+1.1.5 (2023-04-25)
 ------------------
+* fix build of `rqt` with `setuptools>=v61.0.0` (`#271 <https://github.com/ros-visualization/rqt/issues/271>`_) (`#286 <https://github.com/ros-visualization/rqt/issues/286>`_)
+* Contributors: mergify[bot]
 
-1.3.1 (2023-02-24)
+1.1.4 (2022-05-10)
 ------------------
-* fix build of `rqt` with `setuptools>=v61.0.0` (`#271 <https://github.com/ros-visualization/rqt/issues/271>`_)
-* Contributors: Daniel Reuter
-
-1.3.0 (2023-02-14)
-------------------
-* [rolling] Update maintainers - 2022-11-07 (`#283 <https://github.com/ros-visualization/rqt/issues/283>`_)
-* Contributors: Audrow Nash, Dharini Dutia, quarkytale
-
-1.2.0 (2022-05-10)
-------------------
-* Fix up the package description. (`#250 <https://github.com/ros-visualization/rqt/issues/250>`_)
-* Contributors: Chris Lalancette
 
 1.1.3 (2022-04-05)
 ------------------
