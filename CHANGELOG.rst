@@ -2,6 +2,9 @@
 Changelog for package rqt
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 
+1.7.0 (2024-04-26)
+------------------
+
 1.6.0 (2024-03-28)
 ------------------
 * Add a test dependency on pytest. (`#306 <https://github.com/ros-visualization/rqt/issues/306>`_)
