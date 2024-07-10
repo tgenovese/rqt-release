@@ -33,7 +33,7 @@
 #ifndef rqt_gui_cpp__RosCppPluginProvider_H
 #define rqt_gui_cpp__RosCppPluginProvider_H
 
-#include <qt_gui_cpp/composite_plugin_provider.h>
+#include <qt_gui_cpp/composite_plugin_provider.hpp>
 
 #include <QMessageBox>
 #include <QThread>
