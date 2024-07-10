@@ -33,7 +33,7 @@
 #ifndef rqt_gui_cpp__NodeletPluginProvider_H
 #define rqt_gui_cpp__NodeletPluginProvider_H
 
-#include <qt_gui_cpp/ros_pluginlib_plugin_provider.h>
+#include <qt_gui_cpp/ros_pluginlib_plugin_provider.hpp>
 
 #include <rqt_gui_cpp/plugin.h>
 
