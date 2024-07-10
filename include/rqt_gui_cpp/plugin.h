@@ -33,9 +33,9 @@
 #ifndef rqt_gui_cpp__Plugin_H
 #define rqt_gui_cpp__Plugin_H
 
-#include <qt_gui_cpp/plugin.h>
-#include <qt_gui_cpp/plugin_context.h>
-#include <qt_gui_cpp/settings.h>
+#include <qt_gui_cpp/plugin.hpp>
+#include <qt_gui_cpp/plugin_context.hpp>
+#include <qt_gui_cpp/settings.hpp>
 
 #include <rclcpp/rclcpp.hpp>
 
