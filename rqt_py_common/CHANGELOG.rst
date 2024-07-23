@@ -2,6 +2,9 @@
 Changelog for package rqt_py_common
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+1.7.2 (2024-07-23)
+------------------
+
 1.7.1 (2024-07-10)
 ------------------
 * Added common test to rqt_py_common (`#310 <https://github.com/ros-visualization/rqt/issues/310>`_)
