@@ -2,6 +2,9 @@
 Changelog for package rqt_gui_cpp
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+1.7.3 (2024-10-03)
+------------------
+
 1.7.2 (2024-07-23)
 ------------------
 * Added common test to rqt_gui_cpp and deprecate h headers (`#311 <https://github.com/ros-visualization/rqt/issues/311>`_)
