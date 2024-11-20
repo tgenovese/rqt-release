@@ -2,6 +2,11 @@
 Changelog for package rqt_py_common
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+1.8.0 (2024-11-20)
+------------------
+* Stop using python_cmake_module. (`#304 <https://github.com/ros-visualization/rqt/issues/304>`_)
+* Contributors: Chris Lalancette
+
 1.7.3 (2024-10-03)
 ------------------
 * Use an rclpy context manager. (`#312 <https://github.com/ros-visualization/rqt/issues/312>`_)
