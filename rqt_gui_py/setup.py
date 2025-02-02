@@ -3,7 +3,7 @@ from setuptools import setup
 package_name = 'rqt_gui_py'
 setup(
     name=package_name,
-    version='1.8.0',
+    version='1.9.0',
     package_dir={'': 'src'},
     packages=['rqt_gui_py'],
     data_files=[
@@ -21,7 +21,7 @@ setup(
     keywords=['ROS'],
     classifiers=[
         'Intended Audience :: Developers',
-        'License :: OSI Approved :: Apache Software License',
+        'License :: OSI Approved :: BSD License',
         'Programming Language :: Python',
         'Topic :: Software Development',
     ],
